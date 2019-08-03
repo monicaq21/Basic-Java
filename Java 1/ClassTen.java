@@ -8,7 +8,7 @@ public class ClassTen {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 
-		//Switchcase
+		//Switch case
 		//Switch satement is a multi-way decision
 		//similar to 'if...else' but in a cleaner format
 		//There is no range, only equals are allowed
